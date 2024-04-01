@@ -3,7 +3,9 @@ package com.algorithm.code.sort;
 import static com.algorithm.code.utils.util.generateRandomArray;
 
 /**
- * 插入排序，时间复杂度n^2，空间复杂度1
+ * 归并排序：利用递归将数组拆分，然后合并时进行排序
+ * 时间复杂度：nlogn，递归深度为logn，每一层合并分解为n
+ * 空间复杂度：n
  */
 public class mergeSort {
     public static void main(String[] args) {
