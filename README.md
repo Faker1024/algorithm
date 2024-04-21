@@ -1,2 +1,2 @@
-# sort-algorithm
-排序算法
+# algorithm
+## 刷算法
