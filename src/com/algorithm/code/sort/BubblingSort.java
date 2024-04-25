@@ -1,6 +1,5 @@
 package com.algorithm.code.sort;
 
-import java.util.Random;
 
 import static com.algorithm.code.utils.util.generateRandomArray;
 import static com.algorithm.code.utils.util.swap;
