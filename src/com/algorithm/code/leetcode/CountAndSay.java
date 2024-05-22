@@ -6,7 +6,7 @@ package com.algorithm.code.leetcode;
 public class CountAndSay {
 
     public static void main(String[] args) {
-        System.out.println(countAndSay(5));
+        System.out.println(countAndSay(32));
     }
 
     public static String countAndSay(int n) {
